@@ -6,6 +6,7 @@ Objective:
  Your objective is to collect maximum number of coins while overcoming all the obstacles and enemies.
  
 Controls: 
+
   W:            Up
   S:            Down
   A:            Left
