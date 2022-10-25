@@ -1,7 +1,12 @@
 # Arsenal
 Introduction:
 
-Arsenal is a TPF(Third Person Fighting) Game. It is developed in Unreal Engine and coded in C++. The game consist of 2 levels. Player can pause,resume and save the game.This repository contains the sourse code of the game along with a short gameplay video. 
+Arsenal is a TPF(Third Person Fighting) Game. It is developed in Unreal Engine and coded in C++. The game consist of 2 levels. Player can pause,resume and save the game.This repository contains the sourse code of the game. 
+
+Use the following link for the game play video:
+
+Link for GamePlay Video: https://drive.google.com/file/d/1Dd8oNCbT70CRXGbrlW4xDhClVafzPiMG/view?usp=sharing
+
 
 In order to play the game, you have to download it from the following link:
 
